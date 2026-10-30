@@ -185,6 +185,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [biome](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
 * [SweetIQ/schemats](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
 * [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects
+* [@clean-jsdoc-theme/typedoc](https://github.com/ankitskvmdam/clean-jsdoc-theme/tree/master/packages/typedoc) - A modern TypeDoc theme with search, light and dark themes, i18n, and LLM-ready Markdown output
 * [TypeScript Standard](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
 * [typed-install](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
 * [type-config](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
